@@ -1,0 +1,16 @@
+/hardware/__Previews/
+/doc/__Previews/
+/doc/drawing/Status Report.Txt
+/hardware/History/
+.read
+.open
+open
+read
+/hardware/Project Logs for *
+/hardware/Project Outputs for *
+Status Report*
+*Status Report.Txt
+*.bak
+*.bkp
+.idea/
+*/.idea/
