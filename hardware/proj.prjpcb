@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WEWSKTNW
 
 [Document9]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\crystals_oscillators.schlib
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SOXBKDCO
 
 [Document10]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\dcdc_ldo_ref.schlib
@@ -455,7 +455,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PNWQCHQB
 
 [Document25]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\crystals_oscillators.pcblib
@@ -472,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TRHPKTLD
 
 [Document26]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\dcdc_ldo_ref.pcblib
@@ -702,7 +702,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -719,7 +719,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -736,7 +736,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
