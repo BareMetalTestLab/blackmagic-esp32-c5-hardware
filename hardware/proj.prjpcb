@@ -234,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WSREXIYD
 
 [Document12]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\discret_ic.schlib
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EVYVANVM
 
 [Document16]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\mcu.schlib
@@ -438,7 +438,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TCMPNYMQ
 
 [Document24]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\connectors_socets.pcblib
@@ -1692,17 +1692,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=capacitors.schlib
-ComponentDesignItemID0=C0603
-ComponentSymbolReference0=C0603
+ComponentLibraryIdentifier0=connectors_socets.schlib
+ComponentDesignItemID0=DS1013-10
+ComponentSymbolReference0=DS1013-10
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=resistors.schlib
-ComponentDesignItemID1=R0402
-ComponentSymbolReference1=R0402
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1716,34 +1710,33 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Alternative Part
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Part
 ParameterUpdate4=1
-ParameterName5=Part
-ParameterUpdate5=1
-ParameterName6=Value
-ParameterUpdate6=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=C_0603
+ModelName0=DS1013-10-S
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=R_0402
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=GND|NetColor=clBlue
+Net2=NetName=SHIELD|NetColor=$00999999
+Net3=NetName=VCC3.3V|NetColor=clRed
+Net4=NetName=VCC5V|NetColor=$00000098
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
