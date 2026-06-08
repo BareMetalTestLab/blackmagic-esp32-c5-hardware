@@ -5,8 +5,8 @@ Altium Designer Pick and Place Locations
 File Design Information:
 
 Date:       08/06/26
-Time:       11:24
-Revision:   ee2cfe94ea98efc224466119eb15188236081ac8
+Time:       11:45
+Revision:   84863cc7aa2015216815e25fb40b377626c6ed7a
 Variant:    No variations
 Units used: mm
 
@@ -35,7 +35,7 @@ Units used: mm
 "X3","PLS2-4","TopLayer","PLS-4T","29.5000","-23.6280","0","Header, 4-Pin"
 "X2","PLS2-5","TopLayer","PLS-5T","11.8720","-19.5000","270","Header, 5-Pin"
 "X1","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","29.6800","-7.7475","180","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
-"U4","CH342F","TopLayer","QFN50P400X400X80-25N-D","32.2697","-19.3019","315",""
+"U4","CH342F","TopLayer","QFN50P400X400X80-25N-D","32.2697","-19.3019","315","CH342F"
 "U3","TLV75733PDBVR","TopLayer","SOT23-5","39.4000","-8.2500","0","Ultra-Low Quiescent Current LDO"
 "U2","FE1.1S-BQFN24B","TopLayer","QFN50P400X400X80-25N-D","25.7000","-15.5000","45","USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER"
 "U1","ESP32-C5-WROOM-1-N8R8","TopLayer","XCVR_ESP32-C5-WROOM-1-N8R8","46.8650","-19.4940","270","802.15.4, Bluetooth, WiFi 802.11b/g/n/ac/ax, Bluetooth v5.0, Thread, Zigbee® Transceiver Module 2.412GHz ~ 2.484GHz, 5.18GHz ~ 5.885GHz Antenna Not Included Surface Mount"
