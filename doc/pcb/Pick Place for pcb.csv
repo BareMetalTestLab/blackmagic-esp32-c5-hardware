@@ -1,0 +1,67 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\Pick Place for pcb.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/06/26
+Time:       11:24
+Revision:   ee2cfe94ea98efc224466119eb15188236081ac8
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R14","R0402","TopLayer","R_0402","36.5000","-33.5000","0","Resistor"
+"R15","R0402","TopLayer","R_0402","45.0000","-33.5000","0","Resistor"
+"D9","Red 645nm","TopLayer","LED_0603_RED,_60°","39.0000","-33.5000","270","RED LED 0603, 60°"
+"D10","Emerald Green 515nm","TopLayer","LED_0603_GREEN,_60°","42.5000","-33.5000","270","GREEN LED 0603, 60°"
+"R12","R0402","TopLayer","R_0402","13.1000","-6.8000","0","Resistor"
+"R11","R0402","TopLayer","R_0402","20.1000","-7.9000","180","Resistor"
+"D3","TPD2EUSB30DRTR","TopLayer","SOT-9X3-3","29.4763","-12.9237","45","2-channel ESD solution for SuperSpeed USB 3.0 interface 3-SOT-9X3 -40 to 85"
+"D7","SM5819PL-TP","TopLayer","SOD123FL","33.3000","-14.5000","315","Diode"
+"SW2","SKSCLCE010","TopLayer","SKSCLCE010-Footprint-1","50.4750","-34.0000","0","2.9mm 1.25mm Rectangle button 50mA Surface Mount 3.5mm SPST 12V SMD Tactile Switches ROHS"
+"SW1","SKSCLCE010","TopLayer","SKSCLCE010-Footprint-1","50.5000","-5.0000","180","2.9mm 1.25mm Rectangle button 50mA Surface Mount 3.5mm SPST 12V SMD Tactile Switches ROHS"
+"C2","C0402","TopLayer","C_0402","37.1000","-29.3000","180","Capacitor"
+"SH4","Screw Hole","TopLayer","Screw_Hole_2.1mm/4.2mm","3.5000","7.0000","0","Screw Hole"
+"SH3","Screw Hole","TopLayer","Screw_Hole_2.1mm/4.2mm","3.5000","32.0000","0","Screw Hole"
+"SH2","Screw Hole","TopLayer","Screw_Hole_2.1mm/4.2mm","56.5000","32.0000","0","Screw Hole"
+"SH1","Screw Hole","TopLayer","Screw_Hole_2.1mm/4.2mm","56.5000","7.0000","0","Screw Hole"
+"NUT4","SMTSOM235BTR","TopLayer","SMTSOM235BTR","3.5000","-32.0000","0","NUT M2 H=3.5MM, Connector Standoff"
+"NUT3","SMTSOM235BTR","TopLayer","SMTSOM235BTR","3.5000","-7.0000","0","NUT M2 H=3.5MM, Connector Standoff"
+"NUT2","SMTSOM235BTR","TopLayer","SMTSOM235BTR","56.5000","-7.0000","0","NUT M2 H=3.5MM, Connector Standoff"
+"NUT1","SMTSOM235BTR","TopLayer","SMTSOM235BTR","56.5000","-32.0000","0","NUT M2 H=3.5MM, Connector Standoff"
+"XTAL1","12MHz","TopLayer","NX3225GA","25.0000","-20.4000","0","Crystal Oscillator"
+"X4","PLD-10","TopLayer","PLD-10T","18.2000","-19.5000","90","male; PIN: 10; 2.54mm"
+"X3","PLS2-4","TopLayer","PLS-4T","29.5000","-23.6280","0","Header, 4-Pin"
+"X2","PLS2-5","TopLayer","PLS-5T","11.8720","-19.5000","270","Header, 5-Pin"
+"X1","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","29.6800","-7.7475","180","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
+"U4","CH342F","TopLayer","QFN50P400X400X80-25N-D","32.2697","-19.3019","315",""
+"U3","TLV75733PDBVR","TopLayer","SOT23-5","39.4000","-8.2500","0","Ultra-Low Quiescent Current LDO"
+"U2","FE1.1S-BQFN24B","TopLayer","QFN50P400X400X80-25N-D","25.7000","-15.5000","45","USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER"
+"U1","ESP32-C5-WROOM-1-N8R8","TopLayer","XCVR_ESP32-C5-WROOM-1-N8R8","46.8650","-19.4940","270","802.15.4, Bluetooth, WiFi 802.11b/g/n/ac/ax, Bluetooth v5.0, Thread, ZigbeeÂ® Transceiver Module 2.412GHz ~ 2.484GHz, 5.18GHz ~ 5.885GHz Antenna Not Included Surface Mount"
+"R13","R0402","TopLayer","R_0402","45.7000","-9.1000","180","Resistor"
+"R10","R0402","TopLayer","R_0402","20.1000","-9.0000","180","Resistor"
+"R9","R0402","TopLayer","R_0402","30.1000","-14.6000","135","Resistor"
+"R8","R0402","TopLayer","R_0402","20.1000","-10.1000","180","Resistor"
+"R5","R0402","TopLayer","R_0402","16.6000","-6.8000","180","Resistor"
+"R7","R0402","TopLayer","R_0402","20.1000","-6.8000","180","Resistor"
+"R6","R0402","TopLayer","R_0402","33.9000","-12.6000","315","Resistor"
+"R4","R0402","TopLayer","R_0402","13.1000","-7.9000","180","Resistor"
+"R3","R0402","TopLayer","R_0402","51.7000","-8.0000","180","Resistor"
+"R2","R0402","TopLayer","R_0402","47.7000","-9.1000","180","Resistor"
+"R1","R0402","TopLayer","R_0402","49.7000","-9.1000","180","Resistor"
+"D8","Red 645nm","TopLayer","LED_0603_RED,_60°","39.0000","-5.5000","270","RED LED 0603, 60°"
+"D6","Yellow 590nm","TopLayer","LED_0603_YELLOW,_60°","12.5000","-5.5000","90","YELLOW LED 0603, 60°"
+"D5","Yellow 590nm","TopLayer","LED_0603_YELLOW,_60°","16.0000","-5.5000","90","YELLOW LED 0603, 60°"
+"D4","Yellow 590nm","TopLayer","LED_0603_YELLOW,_60°","19.5000","-5.5000","90","YELLOW LED 0603, 60°"
+"D2","Emerald Green 515nm","TopLayer","LED_0603_GREEN,_60°","42.5000","-5.5000","270","GREEN LED 0603, 60°"
+"D1","Emerald Green 515nm","TopLayer","LED_0603_GREEN,_60°","46.0000","-5.5000","270","GREEN LED 0603, 60°"
+"C10","C0402","TopLayer","C_0402","29.9000","-21.2000","135","Capacitor"
+"C9","C0402","TopLayer","C_0402","28.6000","-19.9000","315","Capacitor"
+"C8","C0402","TopLayer","C_0402","29.1000","-18.3000","45","Capacitor"
+"C7","10uF 25V","TopLayer","C_0603","42.3750","-8.2250","90","Capacitor"
+"C6","C0402","TopLayer","C_0402","36.6500","-8.3250","0","Capacitor"
+"C5","10uF 25V","TopLayer","C_0603","36.3750","-9.7250","180","Capacitor"
+"C4","C0402","TopLayer","C_0402","28.0536","-12.7536","225","Capacitor"
+"C3","C0402","TopLayer","C_0402","23.8000","-12.3000","315","Capacitor"
+"C1","C0402","TopLayer","C_0402","51.7000","-9.1000","0","Capacitor"

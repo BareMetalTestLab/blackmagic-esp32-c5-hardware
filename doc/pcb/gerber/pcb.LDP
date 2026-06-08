@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\hardware\pcb.pcbdoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb-slotholes.txt|DrillLayers=gtl,gbl

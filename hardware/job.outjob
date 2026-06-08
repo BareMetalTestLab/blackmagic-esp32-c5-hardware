@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job.OutJob
+Name=job.outjob
 Description=
-TargetOutputMedium=BOM
+TargetOutputMedium=Gerbers_2_layers
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Kyocera TASKalfa 2554ci
+TargetPrinter=Kyocera TASKalfa 2554ci (2)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -114,7 +114,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -134,13 +134,13 @@ Configuration3_Item3=Comment=True|Footprint=True
 Configuration3_Name4=SortOrder
 Configuration3_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration3_Name5=VisibleOrder
-Configuration3_Item5=Description=191|Comment=120|Designator=120|Footprint=120|Part Number=226|Alternative Part=100|Quantity=120
+Configuration3_Item5=Description=191|Comment=120|Designator=120|Footprint=120|Part=100|Alternative Part=100|Quantity=120
 Configuration3_Name6=VisibleOrder_Base
 Configuration3_Item6=Description=183|Comment=116|Designator=161|Footprint=152|Quantity=67
 Configuration3_Name7=VisibleOrder_Consolidated
 Configuration3_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=101|Manufacturer Part Number 1=170|Manufacturer Lifecycle 1=147|Supplier 1=74|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120
 Configuration3_Name8=VisibleOrder_Flat
-Configuration3_Item8=Description=191|Comment=120|Designator=120|Footprint=120|Part Number=226|Alternative Part=100|Quantity=120
+Configuration3_Item8=Description=191|Comment=120|Designator=120|Footprint=120|Part=100|Alternative Part=100|Quantity=120
 OutputType4=Schematic Print
 OutputName4=Schematic Prints
 OutputCategory4=Documentation
@@ -164,7 +164,7 @@ OutputName5=2 layers Gerber Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=PCB.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=1
@@ -175,13 +175,13 @@ OutputEnabled5_OutputMedium7=0
 OutputEnabled5_OutputMedium8=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=PCB.GBO|UserLayerName.Caption1=PCB.GTP|UserLayerName.Caption10=PCB.GM1|UserLayerName.Caption11=PCB.GBL|UserLayerName.Caption12=PCB.GM5|UserLayerName.Caption13=PCB.GM15|UserLayerName.Caption14=PCB.GTL|UserLayerName.Caption15=PCB.GBP|UserLayerName.Caption2=PCB.GTO|UserLayerName.Caption3=PCB.GTS|UserLayerName.Caption4=PCB.GM13|UserLayerName.Caption5=PCB.GM2|UserLayerName.Caption6=PCB.GPT|UserLayerName.Caption7=PCB.GPB|UserLayerName.Caption8=PCB.GKO|UserLayerName.Caption9=PCB.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16973835|DocumentPath=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rcan-usb-hardware\hardware\PCB.PcbDoc
+Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=PCB.GBO|UserLayerName.Caption1=PCB.GTP|UserLayerName.Caption10=PCB.GM1|UserLayerName.Caption11=PCB.GBL|UserLayerName.Caption12=PCB.GM5|UserLayerName.Caption13=PCB.GM15|UserLayerName.Caption14=PCB.GTL|UserLayerName.Caption15=PCB.GKO|UserLayerName.Caption2=PCB.GTO|UserLayerName.Caption3=PCB.GTS|UserLayerName.Caption4=PCB.GM13|UserLayerName.Caption5=PCB.GM2|UserLayerName.Caption6=PCB.GPT|UserLayerName.Caption7=PCB.GPB|UserLayerName.Caption8=PCB.GBP|UserLayerName.Caption9=PCB.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16973835|DocumentPath=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\hardware\pcb.pcbdoc
 OutputType6=NC Drill
 OutputName6=2 layers NC Drill Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=PCB.PcbDoc
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=2
@@ -282,7 +282,7 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rPLC\robocontrloller-f7-miic-hardware\hardware\PCB.pcbdoc
 
 [PublishSettings]
-OutputFilePath2=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\pcb\
+OutputFilePath2=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\
 ReleaseManaged2=0
 OutputBasePath2=..\doc\pcb\
 OutputPathMedia2=
@@ -295,7 +295,7 @@ OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
-OutputFilePath3=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rcan-usb-hardware\doc\pcb\gerber\
+OutputFilePath3=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\gerber\
 ReleaseManaged3=0
 OutputBasePath3=..\doc\pcb\gerber\
 OutputPathMedia3=
@@ -321,7 +321,7 @@ OutputFileNameMulti4=
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\photo\
+OutputFilePath5=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\photo\
 ReleaseManaged5=0
 OutputBasePath5=..\doc\photo\
 OutputPathMedia5=
@@ -334,7 +334,7 @@ OutputFileNameMulti5==OutputName
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\drawing\
+OutputFilePath6=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\drawing\
 ReleaseManaged6=0
 OutputBasePath6=..\doc\drawing\
 OutputPathMedia6=
@@ -374,7 +374,7 @@ ShowComponentParameters7=1
 GlobalBookmarks7=1
 PDFACompliance7=Disabled
 PDFVersion7=Default
-OutputFilePath8=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\pcb\
+OutputFilePath8=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\
 ReleaseManaged8=0
 OutputBasePath8=..\doc\pcb\
 OutputPathMedia8=
@@ -389,7 +389,7 @@ OutputFileNameSpecial8=
 OpenOutput8=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\pcb\
+RelativeOutputPath2=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\
 OpenOutputs2=0
 AddToProject2=1
 TimestampFolder2=0
@@ -399,7 +399,7 @@ OpenGerberOutput2=0
 OpenNCDrillOutput2=0
 OpenIPCOutput2=0
 EnableReload2=0
-RelativeOutputPath3=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rcan-usb-hardware\doc\pcb\gerber\
+RelativeOutputPath3=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\gerber\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -419,7 +419,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\photo\
+RelativeOutputPath5=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\photo\
 OpenOutputs5=0
 AddToProject5=0
 TimestampFolder5=0
@@ -429,7 +429,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\drawing\
+RelativeOutputPath6=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\drawing\
 OpenOutputs6=0
 AddToProject6=0
 TimestampFolder6=0
@@ -441,7 +441,7 @@ OpenIPCOutput6=0
 EnableReload6=0
 RelativeOutputPath7=\\Mac\Home\Documents\Local_folder\Development\Jobs\OZON\FF_new_Riga\nicb\nicb-hardware\doc\pcb\
 OpenOutputs7=0
-RelativeOutputPath8=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\BareMetal-PLC-M\doc\pcb\
+RelativeOutputPath8=\\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\doc\pcb\
 OpenOutputs8=0
 AddToProject8=0
 TimestampFolder8=0

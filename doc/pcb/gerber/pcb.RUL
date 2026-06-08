@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: \\Mac\Home\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\hardware\pcb.pcbdoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

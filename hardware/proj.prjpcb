@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Job.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=esp.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAIIWJRX
 
-[Document3]
+[Document2]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\modules.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EULPDIGW
 
-[Document4]
+[Document3]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\analog_ic.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VESACLBW
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\battery_socets.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,9 +115,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PQKOHOHD
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\capacitors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMKBEDRG
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\connectors_socets.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEWSKTNW
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\crystals_oscillators.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOXBKDCO
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\dcdc_ldo_ref.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUUOVIHT
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\diode.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSREXIYD
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\discret_ic.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQEBLEAB
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\fuse.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,9 +234,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PPFXDDOY
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\inductors_transformers.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,9 +251,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUSDCDCM
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\led_lcd.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVYVANVM
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\mcu.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,9 +285,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ULUHLEPI
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\optocouplers.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,9 +302,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CIVKYEND
 
-[Document17]
+[Document16]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\other.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJWJYTXJ
 
-[Document18]
+[Document17]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\resistors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUVACNOP
 
-[Document19]
+[Document18]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\schlibs\transistors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,9 +353,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EQDEWPIK
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\analog_ic.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\battery_socets.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\capacitors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCMPNYMQ
 
-[Document23]
+[Document22]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\connectors_socets.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNWQCHQB
 
-[Document24]
+[Document23]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\crystals_oscillators.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRHPKTLD
 
-[Document25]
+[Document24]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\dcdc_ldo_ref.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\diode.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORYEOGCC
 
-[Document27]
+[Document26]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\discret_ic.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQSGDKJD
 
-[Document28]
+[Document27]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\fuse.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\inductors_transformers.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\led_lcd.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAAOQPQO
 
-[Document31]
+[Document30]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\mcu.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\modules.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEFYWVGR
 
-[Document33]
+[Document32]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\optocouplers.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\other.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDKUXPQI
 
-[Document35]
+[Document34]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\resistors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=..\..\..\..\RHS\altguide\altlib\pcblibs\transistors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAVUWYXT
 
-[Document38]
+[Document37]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRCLYVVB
 
-[Document39]
+[Document38]
 DocumentPath=interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBRAMTTP
 
-[Document40]
+[Document39]
 DocumentPath=sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHALICFE
 
-[Document41]
+[Document40]
 DocumentPath=pcb.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,6 +728,44 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYXJLSTM
+
+[Document41]
+DocumentPath=..\..\..\..\RHS\altguide\template\hardware\job.outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=Z:\Yandex.Disk.localized\Development\Jobs\BareMetalTestLab\blackmagic-esp32-c5-hardware\blackmagic-esp32\hardware\draftsman.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JHNQCEHR
+
+[GeneratedDocument1]
+DocumentPath=..\doc\pcb\Pick Place for pcb.csv
+DItemRevisionGUID=
 
 [DeviceSheetFolder1]
 Path=G:\_Ronavi\Altium\Formats\SCH_1\
